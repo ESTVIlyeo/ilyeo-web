@@ -165,18 +165,5 @@ var BOARDS =[
             {name:'Annabel van den Broek',role:'act'}],
         img: 'images/besturen/13ebestuur.jpg'
 
-    },
-    {
-        prefixDutch: "Veertiende",
-        prefixEng: "Fourteenth",
-        durationDutch: "September 2019 - September 2020",
-        durationEng: "September 2019 - September 2020",
-        lefttoright:[
-            {name:'Jasmijn de Vries',role:'act'},
-            {name:'Bram Klaassen',role:'secr'},
-            {name:'Leonie Schnieders',role:'chair'},
-            {name:'Dennis Hekkers',role:'treas'}],
-        img: 'images/besturen/14ebestuur.jpg'
-
     }
 ];
