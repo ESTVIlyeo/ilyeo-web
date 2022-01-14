@@ -17,6 +17,27 @@ var BELTS = {
 };
 
 var BELT_EXAMS = [
+
+    {
+        dutchDate: '18 December 2021',
+        engData: 'December 18th 2021',
+        belts: [
+            {name: 'Robin van Renselaar', from: 'b', to: 'r'},
+            {name: 'Dennis Hekkers', from: 'gb', to: 'br'},
+            {name: 'Sebastiaan van Gaans', from: 'g', to: 'b'},
+            {name: 'Edo Buijs', from: 'y', to: 'g'},
+            {name: 'Chaoyu Chen', from: 'y', to: 'g'}, 
+            {name: 'Ilina Zdravkova', from: 'y', to: 'g'}, 
+            {name: 'Naomie Amsing', from: 'w', to: 'yg'},
+            {name: 'Lilly van Bakel', from: 'w', to: 'y'},
+            {name: 'Aurelia van den Berg', from: 'w', to: 'y'},
+            {name: 'Seyma Günel', from: 'w', to: 'y'},
+            {name: 'Folkert Jansen', from: 'w', to: 'y'},
+            {name: 'Florian Pans', from: 'w', to: 'y'},
+        ],
+        img: 'images/exams/geslaagden2021_12_18.jpg',
+        lefttoright: ['Merijn, Ilina, Tung, Florian, Aurelia, Folkert, Edo, Robin, Lilly, Sebastiaan, Seyma, Dennis, Naomie, Mels, Chaoyu']
+    },	
 	{
         dutchDate: '7 Maart 2020',
         engDate: 'March 7th 2020',
