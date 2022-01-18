@@ -20,8 +20,8 @@ var BELT_EXAMS = [
 
     {
         dutchDate: '18 December 2021',
-        engData: 'December 18th 2021',
-        belts: [
+        engDate: 'December 18th 2021',
+        belts:[
             {name: 'Robin van Renselaar', from: 'b', to: 'r'},
             {name: 'Dennis Hekkers', from: 'gb', to: 'br'},
             {name: 'Sebastiaan van Gaans', from: 'g', to: 'b'},
