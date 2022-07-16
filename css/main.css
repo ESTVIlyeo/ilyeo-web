@@ -277,7 +277,9 @@ table.exam-results {
   table.exam-results .black .belt {
     border-left: 10px solid black; }
   table.exam-results .dantwo .belt {
-    border-left: 10px solid black; }
+    border-left: 15px solid black; }
+  table.exam-results .danthree .belt {
+    border-left: 20px solid black; }
 
 hr.belt {
   color: black;

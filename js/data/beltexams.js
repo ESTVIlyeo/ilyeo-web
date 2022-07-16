@@ -14,10 +14,28 @@ var BELTS = {
     'rb':{dutch:'Rood/Zwart', eng:'Red/Black', c:'red-black'},
     'black':{dutch:'Zwart', eng:'Black', c:'black'},
     'dantwo':{dutch:'Tweede Dan', eng:'Second Dan', c:'dantwo'},
+    'danthree':{dutch:'Derde Dan', eng:'Third Dan', c:'danthree'},
 };
 
 var BELT_EXAMS = [
-
+    {
+        dutchDate: '25 Juni 2022',
+        engDate: 'June 25th 2022',
+        belts:[
+            {name: 'TODO', from: 'w', to: 'y'},
+        ],
+        img: 'images/exams/todo',
+        lefttoright: ['TODO']
+    },
+    {
+        dutchDate: '18 Juni 2022',
+        engDate: 'June 18th 2022',
+        belts:[
+            {name: 'Le Xuan Tung', from: 'dantwo', to: 'danthree'},
+        ],
+        img: 'images/exams/geslaagden2022_06_18.jfif',
+        lefttoright: ['Tung']
+    },
     {
         dutchDate: '18 December 2021',
         engDate: 'December 18th 2021',
@@ -37,8 +55,8 @@ var BELT_EXAMS = [
         ],
         img: 'images/exams/geslaagden2021_12_18.jpg',
         lefttoright: ['Merijn, Ilina, Tung, Florian, Aurelia, Folkert, Edo, Robin, Lilly, Sebastiaan, Seyma, Dennis, Naomie, Mels, Chaoyu']
-    },	
-	{
+    },
+    {
         dutchDate: '7 Maart 2020',
         engDate: 'March 7th 2020',
         belts:[
@@ -56,11 +74,11 @@ var BELT_EXAMS = [
         img: 'images/exams/geslaagden2020_03_07.jpg',
         lefttoright: ['Tung, Melanie, Dennis, Sven, Jasmijn, Arjan, Fabienne, Joshua, Edo, Leonie, Tom, Ilina, Merijn, Mels']
     },
-	{
+    {
         dutchDate: '30 Maart 2019',
         engDate: 'March 30th 2019',
         belts:[
-			{name:'Jip Reinders', from:'y', to:'g'},
+            {name:'Jip Reinders', from:'y', to:'g'},
             {name:'Sebastiaan van Gaans', from:'y', to:'g'},
             {name:'Dennis Hekkers', from:'y', to:'g'},
             {name:'Bram Klaassen', from:'y', to:'g'},
@@ -70,9 +88,9 @@ var BELT_EXAMS = [
         ],
         img: 'images/exams/geslaagden2019_03_30.png',
         lefttoright: ['Tung, Merijn, Sjors, Sebastiaan, Dennis, Bram, Mels',
-						'Melanie, Jasmijn, Jolijn, Ahn, Leonie, Jie']
+                        'Melanie, Jasmijn, Jolijn, Ahn, Leonie, Jie']
     },
-	{
+    {
         dutchDate: 'Nationale Dan Examen 3 November 2018',
         engDate: 'National Dan Exam November 3th 2018',
         belts:[
@@ -81,17 +99,17 @@ var BELT_EXAMS = [
         img: 'images/exams/geslaagden2018_11_03.png',
         lefttoright: ['Mels']
     },
-	{
+    {
         dutchDate: 'Nationale Dan Examen 16 Juni 2018',
         engDate: 'National Dan Exam June 16th 2018',
         belts:[
             {name:'Le Xuan Tung', from:'black', to:'dantwo'},
-            {name:'Weiming Yao', from:'rb', to:'black'},	
+            {name:'Weiming Yao', from:'rb', to:'black'},    
         ],
         img: 'images/exams/geslaagden2018_06_16.png',
         lefttoright: ['Fleur, Weiming']
     },
-	{
+    {
         dutchDate: '2 Juni 2018',
         engDate: 'June 2nd 2018',
         belts:[
@@ -105,9 +123,9 @@ var BELT_EXAMS = [
         ],
         img: 'images/exams/geslaagden2018_06_02.png',
         lefttoright: ['Merijn, Michel, Annabel, Leonie, Robin, Ab, Melanie',
-						'Bram, Fabienne, Fleur']
+                        'Bram, Fabienne, Fleur']
     },
-	{
+    {
         dutchDate: '17 December 2017',
         engDate: 'December 17th 2017',
         belts:[
