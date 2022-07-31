@@ -22,14 +22,22 @@ var BELT_EXAMS = [
         dutchDate: '25 Juni 2022',
         engDate: 'June 25th 2022',
         belts:[
-            {name: 'TODO', from: 'w', to: 'y'},
+            {name: 'Suzanne', from: 'w', to: 'y'},
+            {name: 'Nagib', from: 'w', to: 'y'},
+            {name: 'Sven Kuneman', from: 'y', to: 'yg'},
+            {name: 'Lilly van Bakel', from: 'y', to: 'g'},
+            {name: 'Tom Hermans', from: 'y', to: 'g'},
+            {name: 'Aurelia van den Berg', from: 'y', to: 'g'},
+            {name: 'Florian Pans', from: 'y', to: 'g'},
+            {name: 'Ilina Zdravkova', from: 'g', to: 'b'},
+            {name: 'Bram Klaassen', from:'g', to:'b'},
         ],
-        img: 'images/exams/todo',
-        lefttoright: ['TODO']
+        img: 'images/exams/geslaagden2022_06_25.jpg',
+        lefttoright: ['Mels, Suzanne, Sven, Lilly, Nagib, Tom, Aurelia, Florian, Ilina, Bram, Tung, Weiming']
     },
     {
-        dutchDate: '18 Juni 2022',
-        engDate: 'June 18th 2022',
+        dutchDate: 'Nationale Dan Examen 18 Juni 2022',
+        engDate: 'National Dan Exam June 18th 2022',
         belts:[
             {name: 'Le Xuan Tung', from: 'dantwo', to: 'danthree'},
         ],
