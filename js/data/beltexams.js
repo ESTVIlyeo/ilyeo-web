@@ -22,8 +22,8 @@ var BELT_EXAMS = [
         dutchDate: '25 Juni 2022',
         engDate: 'June 25th 2022',
         belts:[
-            {name: 'Suzanne', from: 'w', to: 'y'},
-            {name: 'Nagib', from: 'w', to: 'y'},
+            {name: 'Suzanne van Vliet', from: 'w', to: 'y'},
+            {name: 'Nagib Twahir', from: 'w', to: 'y'},
             {name: 'Sven Kuneman', from: 'y', to: 'yg'},
             {name: 'Lilly van Bakel', from: 'y', to: 'g'},
             {name: 'Tom Hermans', from: 'y', to: 'g'},
