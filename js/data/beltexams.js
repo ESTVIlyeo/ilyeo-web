@@ -19,7 +19,39 @@ var BELTS = {
 
 var BELT_EXAMS = [
     {
-        dutchDate: '25 Juni 2022',
+        dutchDate: '17 december 2022',
+        engDate: 'December 17th 2022',
+        belts:[
+            {name: 'Hadeel Khawatmy', from: 'w', to: 'y'},
+            {name: 'Iulia Lung', from: 'w', to: 'y'},
+            {name: 'Leena Bannani', from: 'w', to: 'y'},
+            {name: 'Aleksandra Karyakin', from: 'w', to: 'y'},
+            {name: 'Max winsemius', from: 'w', to: 'y'},
+            {name: 'Suzanne van Vliet', from: 'y', to: 'g'},
+            {name: 'Joshua Janssen', from: 'y', to: 'g'},
+            {name: 'Sven Kuneman', from: 'yg', to: 'g'},
+            {name: 'Naomie Amsing', from: 'yg', to: 'gb'},
+            {name: 'Eliott Tsaramaro', from: 'g', to: 'b'},
+            {name: 'Sebastiaan van Gaans', from: 'b', to: 'br'},
+            {name: 'Robin van Renselaar', from: 'r', to: 'rb'},
+        ],
+        img: 'images/exams/geslaagden2022_12_17.jfif',
+        lefttoright: [
+          'Robin T., Weiming, Eliott, Sven, Dennis, Robin, Joshua, Sebastiaan, Fabienne, Iulia, Aleksandra, Tung, Mels',
+          'Max, Edo, Naomie, Suzanne, Tom, Hadeel, Sareh']
+    },
+    {
+        dutchDate: 'Nationale Dan Examen 5 december 2022',
+        engDate: 'National Dan Exam December 5th 2022',
+        belts:[
+            {name: 'Mels van Broekhoven', from: 'black', to: 'dantwo'},
+            {name: 'Robin Timmermans', from: 'black', to: 'dantwo'},
+        ],
+        img: 'images/exams/geslaagden2022_12_05.jpg',
+        lefttoright: ['Mels, Robin']
+    },
+    {
+        dutchDate: '25 juni 2022',
         engDate: 'June 25th 2022',
         belts:[
             {name: 'Suzanne van Vliet', from: 'w', to: 'y'},
@@ -36,7 +68,7 @@ var BELT_EXAMS = [
         lefttoright: ['Mels, Suzanne, Sven, Lilly, Nagib, Tom, Aurelia, Florian, Ilina, Bram, Tung, Weiming']
     },
     {
-        dutchDate: 'Nationale Dan Examen 18 Juni 2022',
+        dutchDate: 'Nationale Dan Examen 18 juni 2022',
         engDate: 'National Dan Exam June 18th 2022',
         belts:[
             {name: 'Le Xuan Tung', from: 'dantwo', to: 'danthree'},
