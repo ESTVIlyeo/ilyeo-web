@@ -26,7 +26,7 @@ var BELT_EXAMS = [
             {name: 'Iulia Lung', from: 'w', to: 'y'},
             {name: 'Leena Bannani', from: 'w', to: 'y'},
             {name: 'Aleksandra Karyakin', from: 'w', to: 'y'},
-            {name: 'Max winsemius', from: 'w', to: 'y'},
+            {name: 'Max Winsemius', from: 'w', to: 'y'},
             {name: 'Suzanne van Vliet', from: 'y', to: 'g'},
             {name: 'Joshua Janssen', from: 'y', to: 'g'},
             {name: 'Sven Kuneman', from: 'yg', to: 'g'},
