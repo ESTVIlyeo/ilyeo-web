@@ -33,6 +33,7 @@ var BELT_EXAMS = [
             {name: 'Naomie Amsing', from: 'yg', to: 'gb'},
             {name: 'Eliott Tsaramaro', from: 'g', to: 'b'},
             {name: 'Sebastiaan van Gaans', from: 'b', to: 'br'},
+            {name: 'Dennis Hekkers', from: 'br', to: 'r'},
             {name: 'Robin van Renselaar', from: 'r', to: 'rb'},
         ],
         img: 'images/exams/geslaagden2022_12_17.jfif',
