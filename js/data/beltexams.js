@@ -31,7 +31,7 @@ var BELT_EXAMS = [
             {name: 'Joshua Janssen', from: 'y', to: 'g'},
             {name: 'Sven Kuneman', from: 'yg', to: 'g'},
             {name: 'Naomie Amsing', from: 'yg', to: 'gb'},
-            {name: 'Eliott Tsaramaro', from: 'g', to: 'b'},
+            {name: 'Eliott Tsaramaro', from: 'g', to: 'gb'},
             {name: 'Fabienne Crans', from: 'g', to: 'b'},
             {name: 'Sebastiaan van Gaans', from: 'b', to: 'br'},
             {name: 'Dennis Hekkers', from: 'br', to: 'r'},
