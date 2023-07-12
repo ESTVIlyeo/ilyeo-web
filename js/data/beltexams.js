@@ -37,7 +37,7 @@ var BELT_EXAMS = [
             {name: 'Dennis Hekkers', from: 'br', to: 'r'},
             {name: 'Robin van Renselaar', from: 'r', to: 'rb'},
         ],
-        img: 'images/exams/geslaagden2022_12_17.jfif',
+        img: 'images/exams/geslaagden2022_12_17.png',
         lefttoright: [
           'Robin T., Weiming, Eliott, Sven, Dennis, Robin, Joshua, Sebastiaan, Fabienne, Iulia, Aleksandra, Tung, Mels',
           'Max, Edo, Naomie, Suzanne, Tom, Hadeel, Sareh']
