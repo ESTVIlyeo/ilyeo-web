@@ -11,7 +11,7 @@ var BOARDS =[
     {
         prefixDutch: "Eerste",
         prefixEng: "First",
-        durationDutch: "April 2004 - November 2005",
+        durationDutch: "april 2004 - november 2005",
         durationEng: "April 2004 - November 2005",
         lefttoright:[
             {name:'Richard van den Hoven',role:'secr'},
@@ -23,7 +23,7 @@ var BOARDS =[
     {
         prefixDutch: "Tweede",
         prefixEng: "Second",
-        durationDutch: "November 2005 - September 2006",
+        durationDutch: "november 2005 - september 2006",
         durationEng: "November 2005 - September 2006",
         lefttoright:[
             {name:'Ruud Hawinkels',role:'secr'},
@@ -35,7 +35,7 @@ var BOARDS =[
     {
         prefixDutch: "Derde",
         prefixEng: "Third",
-        durationDutch: "September 2006 - Oktober 2007",
+        durationDutch: "september 2006 - oktober 2007",
         durationEng: "September 2006 - October 2007",
         lefttoright:[
             {name:'Martijn de Groot',role:'chair'},
@@ -47,7 +47,7 @@ var BOARDS =[
     {
         prefixDutch: "Vierde",
         prefixEng: "Fourth",
-        durationDutch: "Oktober 2007 - Oktober 2008",
+        durationDutch: "oktober 2007 - oktober 2008",
         durationEng: "October 2007 - October 2008",
         lefttoright:[
             {name:'Bas Ploeger',role:'treas'},
@@ -59,7 +59,7 @@ var BOARDS =[
     {
         prefixDutch: "Vijfde",
         prefixEng: "Fifth",
-        durationDutch: "Oktober 2008 - September 2009",
+        durationDutch: "oktober 2008 - september 2009",
         durationEng: "October 2008 - September 2009",
         lefttoright:[
             {name:'Mark van Domburg',role:'treas'},
@@ -70,7 +70,7 @@ var BOARDS =[
     {
         prefixDutch: "Zesde",
         prefixEng: "Sixth",
-        durationDutch: "September 2009 - November 2010",
+        durationDutch: "september 2009 - november 2010",
         durationEng: "September 2009 - November 2010",
         lefttoright:[
             {name:'Xixi Lu',role:'treas'},
@@ -81,7 +81,7 @@ var BOARDS =[
     {
         prefixDutch: "Zevende",
         prefixEng: "Seventh",
-        durationDutch: "November 2010 - Mei 2013",
+        durationDutch: "november 2010 - mei 2013",
         durationEng: "November 2010 - May 2013",
         lefttoright:[
             {name:'Laurens van der Bel',role:'chair'},
@@ -92,7 +92,7 @@ var BOARDS =[
     {
         prefixDutch: "Achtste",
         prefixEng: "Eighth",
-        durationDutch: "Mei 2013 - September 2014",
+        durationDutch: "mei 2013 - september 2014",
         durationEng: "May 2013 - September 2014",
         lefttoright:[
             {name:'Roy Kraak',role:'chair'},
@@ -104,7 +104,7 @@ var BOARDS =[
     {
         prefixDutch: "Negende",
         prefixEng: "Ninth",
-        durationDutch: "September 2014 - September 2015",
+        durationDutch: "september 2014 - september 2015",
         durationEng: "September 2014 - September 2015",
         lefttoright:[
             {name:'Fleur Petit',role:'act'},
@@ -117,7 +117,7 @@ var BOARDS =[
     {
         prefixDutch: "Tiende",
         prefixEng: "Tenth",
-        durationDutch: "September 2015 - September 2016",
+        durationDutch: "september 2015 - september 2016",
         durationEng: "September 2015 - September 2016",
         lefttoright:[
             {name:'Le Xuan Tung',role:'secr'},
@@ -130,7 +130,7 @@ var BOARDS =[
 	{
         prefixDutch: "Elfde",
         prefixEng: "Eleventh",
-        durationDutch: "September 2016 - September 2017",
+        durationDutch: "september 2016 - september 2017",
         durationEng: "September 2016 - September 2017",
         lefttoright:[
             {name:'Mels van Broekhoven',role:'act'},
@@ -143,7 +143,7 @@ var BOARDS =[
 	{
         prefixDutch: "Twaalfde",
         prefixEng: "Twelfth",
-        durationDutch: "September 2017 - September 2018",
+        durationDutch: "september 2017 - september 2018",
         durationEng: "September 2017 - September 2018",
         lefttoright:[
             {name:'Leonie Schnieders',role:'secr'},
@@ -156,7 +156,7 @@ var BOARDS =[
 	{
         prefixDutch: "Dertiende",
         prefixEng: "Thirteenth",
-        durationDutch: "September 2018 - September 2019",
+        durationDutch: "september 2018 - september 2019",
         durationEng: "September 2018 - September 2019",
         lefttoright:[
             {name:'Chaoyu Chen',role:'secr'},
@@ -169,7 +169,7 @@ var BOARDS =[
     {
         prefixDutch: "Veertiende",
         prefixEng: "Fourteenth",
-        durationDutch: "September 2019 - September 2020",
+        durationDutch: "september 2019 - september 2020",
         durationEng: "September 2019 - September 2020",
         lefttoright:[
             {name:'Jasmijn de Vries',role:'act'},
@@ -182,13 +182,26 @@ var BOARDS =[
     {
         prefixDutch: "Vijftiende",
         prefixEng: "Fifteenth",
-        durationDutch: "September 2020 - September 2021",
+        durationDutch: "september 2020 - september 2021",
         durationEng: "September 2020 - September 2021",
         lefttoright:[
             {name:'Tom Hermans',role:'secr'},
             {name:'Florian Pans',role:'chair'},
             {name:'Folkert Jansen',role:'treas'}],
         img: 'images/besturen/15ebestuur.jpg'
+
+    },
+    {
+        prefixDutch: "Zestiende",
+        prefixEng: "Sixteenth",
+        durationDutch: "september 2021 - september 2022",
+        durationEng: "September 2021 - September 2022",
+        lefttoright:[
+            {name:'Joshua Janssen',role:'act'},
+            {name:'Lilly van Bakel',role:'secr'},
+            {name:'Aurelia van den Berg',role:'chair'},
+            {name:'Robin Timmermans',role:'treas'}],
+        img: 'images/besturen/16ebestuur.jpg'
 
     }
 ];
