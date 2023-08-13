@@ -19,6 +19,21 @@ var BELTS = {
 
 var BELT_EXAMS = [
     {
+        dutchDate: '15 juli 2023',
+        engDate: 'July 15th 2023',
+        belts:[
+            {name: 'Aswath Subramanian ', from: 'w', to: 'y'},
+            {name: 'Raluca Aron', from: 'w', to: 'y'},
+            {name: 'Hadeel Khawatmy', from: 'y', to: 'g'},
+            {name: 'Edo Buijs', from: 'g', to: 'b'},
+            {name: 'Sebastiaan van Gaans', from: 'br', to: 'r'},
+        ],
+        img: 'images/exams/geslaagden2023_07_15.jpg',
+        lefttoright: [
+          'Aswath, Tung, Hadeel, Weiming, Raluca, Lindsey, Suzanne, Sven, Edo, Pantelis, Sebastiaan, Mels',
+          'Tom, Lilly']
+    },
+    {
         dutchDate: '17 december 2022',
         engDate: 'December 17th 2022',
         belts:[
