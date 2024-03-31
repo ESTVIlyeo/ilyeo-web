@@ -203,5 +203,17 @@ var BOARDS =[
             {name:'Robin Timmermans',role:'treas'}],
         img: 'images/besturen/16ebestuur.jpg'
 
+    },
+    {
+        prefixDutch: "Zeventiende",
+        prefixEng: "Seventeenth",
+        durationDutch: "september 2022 - september 2023", 
+        durationEng: "September 2022 - September 2023",
+        lefttoright:[
+            {name:'Max Winsemius',role:'secr'},
+            {name:'Edo Buijs ',role:'chair'},
+            {name:'Sven Kuneman',role:'treas'}],
+        img: 'images/besturen/17ebestuur.jpg'
+
     }
 ];
